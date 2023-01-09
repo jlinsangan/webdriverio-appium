@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@resource-id=\"ca.walmart.ecommerceapp:id/account_wallet_card_layout\"]"
+}

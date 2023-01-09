@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@resource-id=\"ca.walmart.ecommerceapp:id/auth_field_last_name\"]"
+}

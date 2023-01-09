@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@resource-id=\"ca.walmart.ecommerceapp:id/cart_continue_to_checkout_button\"]"
+}
